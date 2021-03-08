@@ -18,7 +18,6 @@ Loop{
 	{
 		WinActivate VncViewer Message Box
 		ControlClick, Button1, VncViewer Message Box
-		Return
 	}
 	Sleep,50
 }
